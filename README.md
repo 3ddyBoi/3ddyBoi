@@ -1,8 +1,7 @@
 <h1>Hei hei👋 Jeg er Edvard</h1>
 <h3>En informasjonsteknologi elev fra Hamar området.</h3>
 
--   🌱 Jeg lærer meg **JavaScript, React og Angular**
--   👨‍💻 Jeg har et portfolio(uferdig) <a href='https://eddyhoi.com'>eddyhoi.com/</a>
+-   🌱 Jeg lærer meg **Next.js, Prisma, PostgreSQL og Tailwind CSS**
 -   📫 Du kan kontakte meg på **edvardhoiby@outlook.com**
 
 <h3 align="left">Sosiale medier:</h3>
