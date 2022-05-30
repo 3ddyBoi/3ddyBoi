@@ -1,7 +1,7 @@
 <h1>Hei hei👋 Jeg er Edvard</h1>
 <h3>En informasjonsteknologi elev fra Hamar området.</h3>
 
--   🌱 Jeg lærer meg **Next.js, Prisma, PostgreSQL og Tailwind CSS**
+-   🌱 Jeg lærer meg **Next.js, Express, PostgreSQL, Docker og Tailwind CSS**
 -   📫 Du kan kontakte meg på **edvardhoiby@outlook.com**
 
 <h3 align="left">Sosiale medier:</h3>
