@@ -1,7 +1,7 @@
 <h1>Hei hei👋 Jeg er Edvard</h1>
-<h3>En informasjonsteknologi elev fra Hamar området.</h3>
+<h3>Lærling hos <a href="https://www.vg.no/">VG (Verdens Gang)</a></h3>
 
--   🌱 Jeg lærer meg **Next.js, Express, PostgreSQL, Docker og Tailwind CSS**
+-   🌱 Jeg er ganske solid i **Next.js, Typescript, scss og Tailwind CSS**
 -   📫 Du kan kontakte meg på **edvardhoiby@outlook.com**
 
 <h3 align="left">Sosiale medier:</h3>
