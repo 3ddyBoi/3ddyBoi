@@ -1,10 +1,10 @@
 <h1>Hei hei👋 Jeg er Edvard</h1>
-<h3>Lærling hos <a href="https://www.vg.no/">VG (Verdens Gang)</a></h3>
+<h3>Apprentice at <a href="https://www.vg.no/">VG (Verdens Gang)</a> as a Software Engineer👨🏼‍💻</h3>
 
--   🌱 Jeg er ganske solid i **Next.js, Typescript, scss og Tailwind CSS**
--   📫 Du kan kontakte meg på **edvardhoiby@outlook.com**
+-   🌱 I know **Next.js, Typescript, scss og Tailwind CSS** and some other stuff🤓
+-   📫 You can contact me at <a href="mailto:edvardhoiby@outlook.com">edvardhoiby@outlook.com</a>
 
-<h3 align="left">Sosiale medier:</h3>
+<h3 align="left">My socials:</h3>
 <p align="left">
     <a href="https://instagram.com/3ddyboii" target="blank"
         ><img
@@ -48,7 +48,7 @@
     /></a>
 </p>
 
-<h3 align="left">Markup språk, kode språk og verktøy:</h3>
+<h3 align="left">Markup languages, coding languages and tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
