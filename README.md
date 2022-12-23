@@ -1,4 +1,4 @@
-<h1>Hello👋 I'm Edvard🦟</h1>
+<h1>Hello👋 I'm Edvard🍇</h1>
 <h3>Apprentice at <a href="https://www.vg.no/">VG (Verdens Gang)</a> as a Software Engineer👨🏼‍💻</h3>
 
 -   🌱 I know **Next.js, Typescript, scss og Tailwind CSS** and some other stuff🤓
