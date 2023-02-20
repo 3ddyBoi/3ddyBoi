@@ -6,6 +6,9 @@
 
 <h3 align="left">My socials:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/edvard-h%C3%B8iby/" target="_blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" />
+    </a>
     <a href="https://instagram.com/3ddyboii" target="blank"
         ><img
             align="center"
@@ -46,6 +49,7 @@
             height="30"
             width="40"
     /></a>
+
 </p>
 
 <h3 align="left">Markup languages, coding languages and tools:</h3>
@@ -144,8 +148,6 @@
     />
 </p>
 
-<div>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=eddyman04&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=eddyman04&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
-    </a>
-</div>
+<a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=eddyman04&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=eddyman04&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+</a>
