@@ -112,7 +112,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+            src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"
             alt="xd"
             width="40"
             height="40"
