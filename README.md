@@ -1,7 +1,7 @@
 <h1>Hello👋 I'm Edvard🍇</h1>
 <h3>I'm a Developer at <a href="https://www.vg.no/">VG (Verdens Gang)</a></h3>
 
-- 📫 You can contact me at <a href="mailto:edvardhoiby@outlook.com">edvardhoiby@outlook.com</a>
+- 📫 You can contact me at <a href="mailto:edvardhoiby@outlook.com">edvardhoiby@outlook.com</a> or <a href="mailto:eddy@vg.no">eddy@vg.no</a>
 
 <h3 align="left">My socials:</h3>
 <p align="left">
