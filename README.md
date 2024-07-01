@@ -51,4 +51,4 @@
 
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eddyman04&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=eddyman04&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=eddyman04&redirect=true)
